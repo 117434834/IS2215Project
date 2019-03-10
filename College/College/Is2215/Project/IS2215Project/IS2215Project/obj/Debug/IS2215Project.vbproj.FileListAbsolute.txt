@@ -1,0 +1,12 @@
+C:\Users\Jacques\Desktop\College\College\Is2215\Project\IS2215Project\IS2215Project\bin\Debug\IS2215Project.exe.config
+C:\Users\Jacques\Desktop\College\College\Is2215\Project\IS2215Project\IS2215Project\bin\Debug\IS2215Project.exe
+C:\Users\Jacques\Desktop\College\College\Is2215\Project\IS2215Project\IS2215Project\bin\Debug\IS2215Project.pdb
+C:\Users\Jacques\Desktop\College\College\Is2215\Project\IS2215Project\IS2215Project\bin\Debug\IS2215Project.xml
+C:\Users\Jacques\Desktop\College\College\Is2215\Project\IS2215Project\IS2215Project\obj\Debug\IS2215Project.vbprojResolveAssemblyReference.cache
+C:\Users\Jacques\Desktop\College\College\Is2215\Project\IS2215Project\IS2215Project\obj\Debug\IS2215Project.frmLogIn.resources
+C:\Users\Jacques\Desktop\College\College\Is2215\Project\IS2215Project\IS2215Project\obj\Debug\IS2215Project.Resources.resources
+C:\Users\Jacques\Desktop\College\College\Is2215\Project\IS2215Project\IS2215Project\obj\Debug\IS2215Project.vbproj.GenerateResource.Cache
+C:\Users\Jacques\Desktop\College\College\Is2215\Project\IS2215Project\IS2215Project\obj\Debug\IS2215Project.exe
+C:\Users\Jacques\Desktop\College\College\Is2215\Project\IS2215Project\IS2215Project\obj\Debug\IS2215Project.xml
+C:\Users\Jacques\Desktop\College\College\Is2215\Project\IS2215Project\IS2215Project\obj\Debug\IS2215Project.pdb
+C:\Users\Jacques\Desktop\College\College\Is2215\Project\IS2215Project\IS2215Project\obj\Debug\IS2215Project.frmSplashScreen.resources
